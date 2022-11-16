@@ -37,6 +37,13 @@ body {
   translate: 0 -500px;
 }
 
+.lin:hover {
+  background-color: #2d2d30;
+  color: #FFFFFF;
+  transition: all 0.25s ease-in-out;
+
+}
+
 .links > * {
   color: white ;
   text-decoration: none;
@@ -193,7 +200,7 @@ line-height: 13px;
   border: 1px solid #D7D7D7;
 border-radius: 15px;
 padding: 16px;
-margin: 12px 12px 12px 12px;
+margin: 6px;
 }
 
 .img_grid {
@@ -462,7 +469,7 @@ li {
 
   .links > * {
     color: #434343;
-    padding: 0px 24px;
+    padding: 5px 24px;
   }
 
   .links > button {
